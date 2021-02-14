@@ -1,0 +1,18 @@
+The stuff in this directory involves computing the continued
+fraction expansion of the constant delta.  This is the classical
+formula delta = a1 + 1/(a2 + 1/(a3 + ....
+
+The output of the program is the sequence a1, a2, a3, ...
+
+I make a plot of a vs. order.  If the continued fraction was
+periodic I would observe periodicity in the plot.  However,
+I see none.
+
+The python program uses the value of delta from Andrea Molteni's
+website to get the value of delta:
+
+http://converge.to/feigenbaum/delta.txt
+
+I also compute the Khinchin constant as described in
+https://en.wikipedia.org/wiki/Khinchin%27s_constant
+
