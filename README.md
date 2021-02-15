@@ -23,7 +23,10 @@ I also compute the Khinchin constant as described in
 https://en.wikipedia.org/wiki/Khinchin%27s_constant
 and make a plot of the computed constant vs. number of
 convergents computed.  I find the expansions of both 
-alpha and delta converge to the Khinchin constant.
+alpha and delta converge to the Khinchin constant.  
+Both plots are shown below.
+
+![AlphaPlot](AlphaPlot.png)
 
 To test the program I have a facility to create high-precision
 representations of the square root of numbers, for example
