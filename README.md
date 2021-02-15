@@ -26,7 +26,7 @@ convergents computed.  I find the expansions of both
 alpha and delta converge to the Khinchin constant.  
 Both plots are shown below.
 
-![AlphaPlot](AlphaPlot.png =250x250)
+![AlphaPlot](AlphaPlot.png)
 ![DeltaPlot](DeltaPlot.png)
 
 To test the program I have a facility to create high-precision
