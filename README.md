@@ -17,6 +17,7 @@ The python program uses the value of delta from Andrea Molteni's
 website to get the value of alpha and delta:
 
 http://converge.to/feigenbaum/alpha.txt
+
 http://converge.to/feigenbaum/delta.txt
 
 I also compute the Khinchin constant as described in
